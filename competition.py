@@ -2,8 +2,7 @@
 """
 The recommendation system uses item-based collaborative filtering along with the Model-based recommendation system. 
 The predictions of these 2 recommendation systems are then combined using the weighted hybrid recommendation system.
-I have not made any changes in the item-based CF recommendation from HW3. But I have made significant changes to the model-based system.
-I decided to use model-based CF as the primary recommender because it gave me better performance over the item-based CF. Hence I thought about improving it more.
+I decided to use model-based CF as the primary recommender because it gave me better performance over the item-based CF.
 I have added additional 11 user features from the user.json dataset, and also considered the features from tip.json dataset.
 
 These additional features are as follows:
