@@ -1,4 +1,4 @@
-# Yelp-Hybrid-Recommendation-System
+# Yelp Hybrid Recommendation System
 
 The recommendation system uses item-based collaborative filtering along with the Model-based recommendation system. 
 The predictions of these 2 recommendation systems are then combined using the weighted hybrid recommendation system.
